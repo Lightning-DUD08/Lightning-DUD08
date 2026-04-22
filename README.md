@@ -10,3 +10,9 @@
 Lightning-DUD08/Lightning-DUD08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+- How can I ensure that my code, program, or software is functional and secure? I feel its to ensure you know what the consumer wants and work within those parameters. Then testing those parameters however the coder sees fit, could be every function, every bit of time passed or just whatever its best.
+
+- How do I interpret user needs and incorporate them into a program? How I would incorporate their needs to to plan out accordinly. Plan out the end goal, problem solve to meet that goal and execute proper readable code and testing to confirm.
+  
+- How do I approach designing software? What I've learned over the course of taking classes is, you have to be maticulous and attention to detail. Approching desigining software with such intent can in my opinion make or break code which will fail or not fail in the course of a project development.
